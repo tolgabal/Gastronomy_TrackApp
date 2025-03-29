@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123813329560",
+    "project_id": "gastrobluecheckapp-e2408",
+    "storage_bucket": "gastrobluecheckapp-e2408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123813329560:android:4820773384dc2561ac6eed",
+        "android_client_info": {
+          "package_name": "com.example.gastrobluecheckapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeyIHS4pfF55qIpoojI3pnqeaCN2Te-ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
