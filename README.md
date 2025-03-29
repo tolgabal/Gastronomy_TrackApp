@@ -1,6 +1,6 @@
 # gastrobluecheckapp
 
-A new Flutter project.
+A project for commercial kitchen process track.
 
 ## Getting Started
 
